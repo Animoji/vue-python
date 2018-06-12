@@ -17,7 +17,7 @@
 
 # vue配置
 
-## 在系统中安装好[Node.js](https://nodejs.org/en/download/)后，执行以下操作：<br>
+## 请确保系统中安装好[Node.js](https://nodejs.org/en/download/)后，执行以下操作：<br>
 
 ``` bash
 # 安装依赖
