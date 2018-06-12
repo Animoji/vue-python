@@ -15,7 +15,7 @@
 
 # vue配置
 
-## Build Setup
+## 在系统中安装好[Node.js](https://nodejs.org/en/download/)后，执行以下操作：<br>
 
 ``` bash
 # 安装依赖
@@ -34,7 +34,7 @@ npm run build
 npm run build --report
 ```
 
-有关事情如何工作的详细说明，点击[介绍](http://vuejs-templates.github.io/webpack/) 或者 [vue-loader文档](http://vuejs.github.io/vue-loader).
+有关事情如何工作的详细说明，点击[介绍](http://vuejs-templates.github.io/webpack/) 或者 [vue-loader文档](http://vuejs.github.io/vue-loader)。
 
 <br>
 
