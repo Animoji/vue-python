@@ -6,7 +6,7 @@
 
 * 其中vue使用了[element-ui](http://element.eleme.io/#/zh-CN)组件库
 
-* python使用django框架,如何使用请参考：
+* python使用django框架,如何使用请参考：<br>
 	[django使用教程](http://www.runoob.com/django/django-tutorial.html)
 
 * 此项目实现了前后端分离
