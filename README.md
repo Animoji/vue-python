@@ -11,7 +11,7 @@
 
 * 此项目实现了前后端分离
 
-
+<br>
 
 # vue配置
 
@@ -34,10 +34,9 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+有关事情如何工作的详细说明，点击[介绍](http://vuejs-templates.github.io/webpack/) 或者 [vue-loader文档](http://vuejs.github.io/vue-loader).
 
-
-
+<br>
 
 # python配置
 
@@ -65,7 +64,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 ## 安装依赖后，请输入以下命令创建相应数据库：
 
 ``` bash
-python manage.py makemigrations myapp
+python manage.py makemigrations TestModel
 
 python manage.py migrate
 ```
