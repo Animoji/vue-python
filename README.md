@@ -17,7 +17,7 @@
 
 # vue配置
 
-## 请确保系统中安装好[Node.js](https://nodejs.org/en/download/)后，执行以下操作：<br>
+### 请确保系统中安装好[Node.js](https://nodejs.org/en/download/)后，进入到vue跟目录并以管理员身份执行以下操作：<br>
 
 ``` bash
 # 安装依赖
@@ -42,7 +42,7 @@ npm run build --report
 
 # python配置
 
-## 本项目使用的python版本为Python 3.x，添加的包如下：<br>
+### 本项目使用的python版本为Python 3.x，添加的包如下：<br>
 
 * Django 2.1a1
 
@@ -60,11 +60,11 @@ npm run build --report
 
 * setuptools 39.2.0
 
-## 数据库相关配置请参阅：<br>
+### 数据库相关配置请参阅：<br>
 
 * [Django模型](http://www.runoob.com/django/django-model.html)
 	
-## 安装依赖后，请输入以下命令创建相应数据库：
+### 安装依赖后，在python项目根目录输入以下命令创建相应数据库：
 
 ``` bash
 python manage.py makemigrations TestModel
