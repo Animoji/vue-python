@@ -61,8 +61,9 @@ npm run build --report
 * setuptools 39.2.0
 
 ## 数据库相关配置请参阅：<br>
-	[Django模型](http://www.runoob.com/django/django-model.html)
 
+* [Django模型](http://www.runoob.com/django/django-model.html)
+	
 ## 安装依赖后，请输入以下命令创建相应数据库：
 
 ``` bash
