@@ -1,20 +1,21 @@
-# vuetest
-
-> A Vue.js project
+# vue配置
 
 ## Build Setup
 
 ``` bash
-# install dependencies
+# 安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 安装webpack-dev-server
+npm install -g webpack-dev-server
+
+# 服务将会监听localhost:8080
 npm run dev
 
-# build for production with minification
+# 最小化方式编译
 npm run build
 
-# build for production and view the bundle analyzer report
+# 编译为生产环境并查看分析报告
 npm run build --report
 ```
 
