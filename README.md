@@ -4,7 +4,7 @@
 
 * python作为后端处理语言
 
-* 其中vue使用了element-ui框架
+* 其中vue使用了element-ui组件库
 
 * python使用django框架
 
