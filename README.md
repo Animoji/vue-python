@@ -36,29 +36,29 @@ npm run build
 npm run build --report
 ```
 
-有关事情如何工作的详细说明，点击[介绍](http://vuejs-templates.github.io/webpack/) 或者 [vue-loader文档](http://vuejs.github.io/vue-loader)。
+有关vue如何工作的详细说明，点击[介绍](http://vuejs-templates.github.io/webpack/) 或者 [vue-loader文档](http://vuejs.github.io/vue-loader)。
 
 <br>
 
 # python配置
 
-### 本项目使用的python版本为Python 3.x，添加的包如下：<br>
+### 本项目使用的python版本为Python 3.x，添加的包以及相应的版本如下：<br>
 
-* Django 2.1a1
+* Django  2.1a1
 
-* demjson 2.2.4
+* demjson  2.2.4
 
-* django-cors-headers 2.2.0
+* django-cors-headers  2.2.0
 
-* django-json-response 1.1.5
+* django-json-response  1.1.5
 
-* mysqlclient 1.3.12
+* mysqlclient  1.3.12
 
-* pip 10.0.1
+* pip  10.0.1
 
-* pytz 2018.4
+* pytz  2018.4
 
-* setuptools 39.2.0
+* setuptools  39.2.0
 
 ### 数据库相关配置请参阅：<br>
 
